@@ -2,7 +2,7 @@
 
 ### **1. Description**
 * **Rest**를 사용한 간단한 예제 프로그램
-* Client 프로그램으로 **Postman**을 사용
+* **Client 프로그램으로 **Postman을 사용**
 * 실행 URL
   + **GET**
     - 전체 User 조회: http://localhost:8080/exampleRest/api/users
